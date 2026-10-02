@@ -6,6 +6,7 @@ The goal of this day is to understand how Java makes decisions based on differen
 
 ---
 
+
 ## 📚 Topics Covered
 
 * `if` statement
@@ -20,9 +21,10 @@ The goal of this day is to understand how Java makes decisions based on differen
 
 ---
 
+
 ## 📁 Folder Structure
 
-```text
+
 Day-02-Conditional-Statements/
 │
 ├── README.md
@@ -43,9 +45,10 @@ Day-02-Conditional-Statements/
 │   └── Q10_Loan_Eligibility.java
 │
 └── Screenshots/
-```
+
 
 ---
+
 
 ## 📝 Practice Questions
 
@@ -64,6 +67,7 @@ Day-02-Conditional-Statements/
 
 ---
 
+
 ## 💻 Solutions
 
 ### Q01 - Positive or Negative
@@ -77,6 +81,7 @@ Checks whether a given number is **positive, negative, or zero**.
 * `Scanner`
 
 ---
+
 
 ### Q02 - Odd or Even
 
@@ -101,6 +106,7 @@ Finds the **largest value between two numbers**.
 
 ---
 
+
 ### Q04 - Smallest of Two Numbers
 
 Finds the **smallest value between two numbers**.
@@ -111,6 +117,7 @@ Finds the **smallest value between two numbers**.
 * Comparison operators
 
 ---
+
 
 ### Q05 - Largest of Three Numbers
 
@@ -125,6 +132,7 @@ Finds the **largest value among three numbers**.
 
 ---
 
+
 ### Q06 - Leap Year
 
 Checks whether a given year is a **leap year**.
@@ -137,6 +145,7 @@ Checks whether a given year is a **leap year**.
 
 ---
 
+
 ### Q07 - Student Grade
 
 Calculates a student's **grade based on their marks**.
@@ -148,6 +157,7 @@ Calculates a student's **grade based on their marks**.
 * Multiple conditions
 
 ---
+
 
 ### Q08 - Electricity Bill
 
@@ -162,6 +172,7 @@ Calculates an **electricity bill based on the number of units consumed** and add
 
 ---
 
+
 ### Q09 - Discount Calculation
 
 Calculates the **discount amount and final purchase amount** based on the purchase value.
@@ -173,6 +184,7 @@ Calculates the **discount amount and final purchase amount** based on the purcha
 * Arithmetic operators
 
 ---
+
 
 ### Q10 - Loan Eligibility
 
@@ -186,6 +198,7 @@ Checks whether a person is **eligible for a loan** based on their age and monthl
 
 ---
 
+
 ## 🛠️ Technologies Used
 
 * ☕ Java
@@ -196,6 +209,7 @@ Checks whether a person is **eligible for a loan** based on their age and monthl
 
 ---
 
+
 ## ▶️ How to Run
 
 ### 1. Open the Solutions Folder
@@ -205,6 +219,7 @@ Open the terminal inside the `Solutions` folder.
 ```bash
 cd Solutions
 ```
+
 
 ### 2. Compile a Java Program
 
@@ -271,6 +286,7 @@ Through these 10 practice problems, I practiced:
 
 ---
 
+
 ## 📈 Progress
 
 **Day 02 completed ✅**
@@ -278,6 +294,7 @@ Through these 10 practice problems, I practiced:
 > Learning Java step by step by practicing small problems every day.
 
 ---
+
 
 ### 👨‍💻 Practice Repository
 
