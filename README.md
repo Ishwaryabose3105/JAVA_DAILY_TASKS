@@ -5,6 +5,7 @@ The main goal of these tasks is to improve my Java programming skills, logical t
 Topics Covered
 -------------
 
+
 Variables and Data Types
 Operators
 If-Else and Switch
