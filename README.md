@@ -1,11 +1,11 @@
-This repository contains my Java daily tasks and practice programs. It includes programs based on Core Java concepts such as variables,data types, operators, conditional statements, loops, arrays, methods, OOP concepts, exception handling, inheritance, interfaces, and more.
+This repository contains my Java daily tasks and practice programs. It includes programs based on Core Java concepts such as variables ,data types, operators, conditional statements, loops, arrays, methods, OOP concepts, exception handling, inheritance, interfaces, and more.          
                                                                     
-The main goal of these tasks is to improve my Java programming skills, logical thinking, and problem-solving abilities through regular practice.
+The main goal of these tasks is to improve my Java programming skills, logical thinking, and problem-solving abilities through regular practice.    
                                             
-Topics Covered 
+Topics Covered        
 -------------
 Variables and Data Types
-Operators
+Operators           
 If-Else and Switch
 Loops
 Arrays
